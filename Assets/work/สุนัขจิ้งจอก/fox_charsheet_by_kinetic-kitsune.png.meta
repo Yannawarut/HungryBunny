@@ -1,0 +1,1626 @@
+fileFormatVersion: 2
+guid: c0b4f444fbf312e4eb75b5d9d29c6bfa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4017809346326458292
+    second: fox_charsheet_by_kinetic-kitsune_0
+  - first:
+      213: -2549839200194244677
+    second: fox_charsheet_by_kinetic-kitsune_1
+  - first:
+      213: -5653357303851851536
+    second: fox_charsheet_by_kinetic-kitsune_2
+  - first:
+      213: 4595781814148897812
+    second: fox_charsheet_by_kinetic-kitsune_3
+  - first:
+      213: -7312528423671408830
+    second: fox_charsheet_by_kinetic-kitsune_4
+  - first:
+      213: 149654250012870763
+    second: fox_charsheet_by_kinetic-kitsune_5
+  - first:
+      213: 1310899359114418690
+    second: fox_charsheet_by_kinetic-kitsune_6
+  - first:
+      213: -4061716475365636213
+    second: fox_charsheet_by_kinetic-kitsune_7
+  - first:
+      213: -3856278422087779056
+    second: fox_charsheet_by_kinetic-kitsune_8
+  - first:
+      213: -8026740356159913784
+    second: fox_charsheet_by_kinetic-kitsune_9
+  - first:
+      213: -1102217969591168522
+    second: fox_charsheet_by_kinetic-kitsune_10
+  - first:
+      213: -6527523367912722559
+    second: fox_charsheet_by_kinetic-kitsune_11
+  - first:
+      213: 1000724230941329906
+    second: fox_charsheet_by_kinetic-kitsune_12
+  - first:
+      213: -5957539565626664297
+    second: fox_charsheet_by_kinetic-kitsune_13
+  - first:
+      213: -7115654442317587935
+    second: fox_charsheet_by_kinetic-kitsune_14
+  - first:
+      213: -8958055539955277405
+    second: fox_charsheet_by_kinetic-kitsune_15
+  - first:
+      213: -1170481390426431879
+    second: fox_charsheet_by_kinetic-kitsune_16
+  - first:
+      213: -1934679246310390556
+    second: fox_charsheet_by_kinetic-kitsune_17
+  - first:
+      213: 3487549135318658199
+    second: fox_charsheet_by_kinetic-kitsune_18
+  - first:
+      213: 8826304183255934306
+    second: fox_charsheet_by_kinetic-kitsune_19
+  - first:
+      213: -178584883369147514
+    second: fox_charsheet_by_kinetic-kitsune_20
+  - first:
+      213: -7952400251414645341
+    second: fox_charsheet_by_kinetic-kitsune_21
+  - first:
+      213: 2820549431142669696
+    second: fox_charsheet_by_kinetic-kitsune_22
+  - first:
+      213: 4467101482528955833
+    second: fox_charsheet_by_kinetic-kitsune_23
+  - first:
+      213: -5265255277806733338
+    second: fox_charsheet_by_kinetic-kitsune_24
+  - first:
+      213: 4140930768142552019
+    second: fox_charsheet_by_kinetic-kitsune_25
+  - first:
+      213: -7985637434646290321
+    second: fox_charsheet_by_kinetic-kitsune_26
+  - first:
+      213: 1055534549432156673
+    second: fox_charsheet_by_kinetic-kitsune_27
+  - first:
+      213: -8252363632264586136
+    second: fox_charsheet_by_kinetic-kitsune_28
+  - first:
+      213: 8118746640925578514
+    second: fox_charsheet_by_kinetic-kitsune_29
+  - first:
+      213: -2236518510043782957
+    second: fox_charsheet_by_kinetic-kitsune_30
+  - first:
+      213: 860533028338128223
+    second: fox_charsheet_by_kinetic-kitsune_31
+  - first:
+      213: -7768328552450262171
+    second: fox_charsheet_by_kinetic-kitsune_32
+  - first:
+      213: -2978697178950410385
+    second: fox_charsheet_by_kinetic-kitsune_33
+  - first:
+      213: 4786052472677051875
+    second: fox_charsheet_by_kinetic-kitsune_34
+  - first:
+      213: -492774284070624616
+    second: fox_charsheet_by_kinetic-kitsune_35
+  - first:
+      213: 8918362837952352206
+    second: fox_charsheet_by_kinetic-kitsune_36
+  - first:
+      213: 6586513624326961667
+    second: fox_charsheet_by_kinetic-kitsune_37
+  - first:
+      213: 7831060700688039544
+    second: fox_charsheet_by_kinetic-kitsune_38
+  - first:
+      213: -3147979071289257614
+    second: fox_charsheet_by_kinetic-kitsune_39
+  - first:
+      213: -3580948413289545601
+    second: fox_charsheet_by_kinetic-kitsune_40
+  - first:
+      213: -9177918358450755439
+    second: fox_charsheet_by_kinetic-kitsune_41
+  - first:
+      213: 1593898919044188655
+    second: fox_charsheet_by_kinetic-kitsune_42
+  - first:
+      213: -2915033298592907050
+    second: fox_charsheet_by_kinetic-kitsune_43
+  - first:
+      213: 2323426252997164753
+    second: fox_charsheet_by_kinetic-kitsune_44
+  - first:
+      213: 5080800953449146354
+    second: fox_charsheet_by_kinetic-kitsune_45
+  - first:
+      213: 4239577720092668802
+    second: fox_charsheet_by_kinetic-kitsune_46
+  - first:
+      213: 8295222352701070327
+    second: fox_charsheet_by_kinetic-kitsune_47
+  - first:
+      213: 7647707342205949419
+    second: fox_charsheet_by_kinetic-kitsune_48
+  - first:
+      213: -7108976873605308199
+    second: fox_charsheet_by_kinetic-kitsune_49
+  - first:
+      213: -4487166791431843620
+    second: fox_charsheet_by_kinetic-kitsune_50
+  - first:
+      213: -2062971043135104094
+    second: fox_charsheet_by_kinetic-kitsune_51
+  - first:
+      213: -4959464495117027247
+    second: fox_charsheet_by_kinetic-kitsune_52
+  - first:
+      213: 8151501106088417114
+    second: fox_charsheet_by_kinetic-kitsune_53
+  - first:
+      213: 2364365409698684690
+    second: fox_charsheet_by_kinetic-kitsune_54
+  - first:
+      213: -2493916811054583508
+    second: fox_charsheet_by_kinetic-kitsune_55
+  - first:
+      213: 7178761380918749416
+    second: fox_charsheet_by_kinetic-kitsune_56
+  - first:
+      213: 3550948031417342893
+    second: fox_charsheet_by_kinetic-kitsune_57
+  - first:
+      213: 7134957653691701703
+    second: fox_charsheet_by_kinetic-kitsune_58
+  - first:
+      213: 2199568632110768504
+    second: fox_charsheet_by_kinetic-kitsune_59
+  - first:
+      213: 1613079485136118469
+    second: fox_charsheet_by_kinetic-kitsune_60
+  - first:
+      213: 261636621735778980
+    second: fox_charsheet_by_kinetic-kitsune_61
+  - first:
+      213: 4500982741586425380
+    second: fox_charsheet_by_kinetic-kitsune_62
+  - first:
+      213: 6342632952482384055
+    second: fox_charsheet_by_kinetic-kitsune_63
+  - first:
+      213: -656108310920280069
+    second: fox_charsheet_by_kinetic-kitsune_64
+  - first:
+      213: 255803585168503432
+    second: fox_charsheet_by_kinetic-kitsune_65
+  - first:
+      213: -5590739847946007278
+    second: fox_charsheet_by_kinetic-kitsune_66
+  - first:
+      213: -181373683079075649
+    second: fox_charsheet_by_kinetic-kitsune_67
+  - first:
+      213: 2270940555463876757
+    second: fox_charsheet_by_kinetic-kitsune_68
+  - first:
+      213: -1723683978268185033
+    second: fox_charsheet_by_kinetic-kitsune_69
+  - first:
+      213: 8990488195188120558
+    second: fox_charsheet_by_kinetic-kitsune_70
+  - first:
+      213: 3220770291061129753
+    second: fox_charsheet_by_kinetic-kitsune_71
+  - first:
+      213: 3120885525859546519
+    second: fox_charsheet_by_kinetic-kitsune_72
+  - first:
+      213: 2715716064921293775
+    second: fox_charsheet_by_kinetic-kitsune_73
+  - first:
+      213: -5838269728629662871
+    second: fox_charsheet_by_kinetic-kitsune_74
+  - first:
+      213: -2867711381791088799
+    second: fox_charsheet_by_kinetic-kitsune_75
+  - first:
+      213: -4042548706007440342
+    second: fox_charsheet_by_kinetic-kitsune_76
+  - first:
+      213: -436020555046244292
+    second: fox_charsheet_by_kinetic-kitsune_77
+  - first:
+      213: 5700136598170179058
+    second: fox_charsheet_by_kinetic-kitsune_78
+  - first:
+      213: -5854376889141353946
+    second: fox_charsheet_by_kinetic-kitsune_79
+  - first:
+      213: -1511599808437036841
+    second: fox_charsheet_by_kinetic-kitsune_80
+  - first:
+      213: 8570081258583096323
+    second: fox_charsheet_by_kinetic-kitsune_81
+  - first:
+      213: -7132822666277357569
+    second: fox_charsheet_by_kinetic-kitsune_82
+  - first:
+      213: -8037327743767430356
+    second: fox_charsheet_by_kinetic-kitsune_83
+  - first:
+      213: 4486888107003095737
+    second: fox_charsheet_by_kinetic-kitsune_84
+  - first:
+      213: -2734246091464100647
+    second: fox_charsheet_by_kinetic-kitsune_85
+  - first:
+      213: -7222882367602496847
+    second: fox_charsheet_by_kinetic-kitsune_86
+  - first:
+      213: -888113060726644265
+    second: fox_charsheet_by_kinetic-kitsune_87
+  - first:
+      213: -8528640988760747286
+    second: fox_charsheet_by_kinetic-kitsune_88
+  - first:
+      213: -7186506579678071059
+    second: fox_charsheet_by_kinetic-kitsune_89
+  - first:
+      213: -4517298897814827895
+    second: fox_charsheet_by_kinetic-kitsune_90
+  - first:
+      213: 1229144036254403274
+    second: fox_charsheet_by_kinetic-kitsune_91
+  - first:
+      213: -5120665831637564714
+    second: fox_charsheet_by_kinetic-kitsune_92
+  - first:
+      213: 4229622922508806690
+    second: fox_charsheet_by_kinetic-kitsune_93
+  - first:
+      213: 2200644244735762736
+    second: fox_charsheet_by_kinetic-kitsune_94
+  - first:
+      213: 4150999847568764497
+    second: fox_charsheet_by_kinetic-kitsune_95
+  - first:
+      213: -3005381117758517161
+    second: fox_charsheet_by_kinetic-kitsune_96
+  - first:
+      213: 7464477979128134914
+    second: fox_charsheet_by_kinetic-kitsune_97
+  - first:
+      213: 1701442653553337879
+    second: fox_charsheet_by_kinetic-kitsune_98
+  - first:
+      213: -4606100763692850624
+    second: fox_charsheet_by_kinetic-kitsune_99
+  - first:
+      213: 1033937042700502096
+    second: fox_charsheet_by_kinetic-kitsune_100
+  - first:
+      213: -6358957548425925304
+    second: fox_charsheet_by_kinetic-kitsune_101
+  - first:
+      213: 3787459371045162169
+    second: fox_charsheet_by_kinetic-kitsune_102
+  - first:
+      213: 2772380499633268337
+    second: fox_charsheet_by_kinetic-kitsune_103
+  - first:
+      213: -4230197344845854414
+    second: fox_charsheet_by_kinetic-kitsune_104
+  - first:
+      213: 3740734273269586217
+    second: fox_charsheet_by_kinetic-kitsune_105
+  - first:
+      213: -3610005878984784193
+    second: fox_charsheet_by_kinetic-kitsune_106
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fox_charsheet_by_kinetic-kitsune_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4097f0dfafdd38c0800000000000000
+      internalID: -4017809346326458292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox_charsheet_by_kinetic-kitsune_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbf4e0ec1c62d9cd0800000000000000
+      internalID: -2549839200194244677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox_charsheet_by_kinetic-kitsune_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f0ec832c7d3b81b0800000000000000
+      internalID: -5653357303851851536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox_charsheet_by_kinetic-kitsune_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41c9b81e53f77cf30800000000000000
+      internalID: 4595781814148897812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox_charsheet_by_kinetic-kitsune_4
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 320
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2475e11642ea48a90800000000000000
+      internalID: -7312528423671408830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox_charsheet_by_kinetic-kitsune_5
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 320
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b68052b5fbda31200800000000000000
+      internalID: 149654250012870763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox_charsheet_by_kinetic-kitsune_6
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 320
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20a5d4c8500413210800000000000000
+      internalID: 1310899359114418690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox_charsheet_by_kinetic-kitsune_7
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 320
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b87ca73b262e1a7c0800000000000000
+      internalID: -4061716475365636213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox_charsheet_by_kinetic-kitsune_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01d3470e43fbb7ac0800000000000000
+      internalID: -3856278422087779056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox_charsheet_by_kinetic-kitsune_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c0cbce6c2a4b9090800000000000000
+      internalID: -8026740356159913784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox_charsheet_by_kinetic-kitsune_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f15771b89224b0f0800000000000000
+      internalID: -1102217969591168522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox_charsheet_by_kinetic-kitsune_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f2088c4149965a0800000000000000
+      internalID: -6527523367912722559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox_charsheet_by_kinetic-kitsune_12
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f9426fc26943ed00800000000000000
+      internalID: 1000724230941329906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox_charsheet_by_kinetic-kitsune_13
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79adc775451925da0800000000000000
+      internalID: -5957539565626664297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox_charsheet_by_kinetic-kitsune_14
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12ada3d2cfd104d90800000000000000
+      internalID: -7115654442317587935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox_charsheet_by_kinetic-kitsune_15
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a1eebeb2f79ea380800000000000000
+      internalID: -8958055539955277405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox_charsheet_by_kinetic-kitsune_16
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 256
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97e5d6b706d91cfe0800000000000000
+      internalID: -1170481390426431879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox_charsheet_by_kinetic-kitsune_17
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e44951d973a625e0800000000000000
+      internalID: -1934679246310390556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox_charsheet_by_kinetic-kitsune_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ca363f573466030800000000000000
+      internalID: 3487549135318658199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox_charsheet_by_kinetic-kitsune_19
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 265a38214e45d7a70800000000000000
+      internalID: 8826304183255934306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox_charsheet_by_kinetic-kitsune_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6830788aef9858df0800000000000000
+      internalID: -178584883369147514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox_charsheet_by_kinetic-kitsune_21
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a5f3beda1663a190800000000000000
+      internalID: -7952400251414645341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox_charsheet_by_kinetic-kitsune_22
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08d50b283ca942720800000000000000
+      internalID: 2820549431142669696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox_charsheet_by_kinetic-kitsune_23
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bd52c171255efd30800000000000000
+      internalID: 4467101482528955833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox_charsheet_by_kinetic-kitsune_24
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e7349aa83e0ee6b0800000000000000
+      internalID: -5265255277806733338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox_charsheet_by_kinetic-kitsune_25
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3db4f92189a877930800000000000000
+      internalID: 4140930768142552019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox_charsheet_by_kinetic-kitsune_26
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 192
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f60a8da10115d2190800000000000000
+      internalID: -7985637434646290321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox_charsheet_by_kinetic-kitsune_27
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1024e0b841306ae00800000000000000
+      internalID: 1055534549432156673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox_charsheet_by_kinetic-kitsune_28
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 192
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86c5485dff6b97d80800000000000000
+      internalID: -8252363632264586136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox_charsheet_by_kinetic-kitsune_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 215d3c11e059ba070800000000000000
+      internalID: 8118746640925578514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox_charsheet_by_kinetic-kitsune_30
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d02143c34a46f0e0800000000000000
+      internalID: -2236518510043782957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox_charsheet_by_kinetic-kitsune_31
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f55d59fda3a31fb00800000000000000
+      internalID: 860533028338128223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox_charsheet_by_kinetic-kitsune_32
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56b7da4075a513490800000000000000
+      internalID: -7768328552450262171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox_charsheet_by_kinetic-kitsune_33
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6fd33392ba89a6d0800000000000000
+      internalID: -2978697178950410385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox_charsheet_by_kinetic-kitsune_34
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3edab46cd597b6240800000000000000
+      internalID: 4786052472677051875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox_charsheet_by_kinetic-kitsune_35
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 892e58346605929f0800000000000000
+      internalID: -492774284070624616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox_charsheet_by_kinetic-kitsune_36
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecfc136efb364cb70800000000000000
+      internalID: 8918362837952352206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox_charsheet_by_kinetic-kitsune_37
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30a77469e3ff76b50800000000000000
+      internalID: 6586513624326961667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox_charsheet_by_kinetic-kitsune_38
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 128
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87e380f67348dac60800000000000000
+      internalID: 7831060700688039544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox_charsheet_by_kinetic-kitsune_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 271907f96b12054d0800000000000000
+      internalID: -3147979071289257614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox_charsheet_by_kinetic-kitsune_40
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f70c0ea046aed4ec0800000000000000
+      internalID: -3580948413289545601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox_charsheet_by_kinetic-kitsune_41
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 198a10331eb71a080800000000000000
+      internalID: -9177918358450755439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox_charsheet_by_kinetic-kitsune_42
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe9028d3f9aae1610800000000000000
+      internalID: 1593898919044188655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox_charsheet_by_kinetic-kitsune_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d04fe0d8a8bb87d0800000000000000
+      internalID: -2915033298592907050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox_charsheet_by_kinetic-kitsune_44
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de76b7fdd77e3020800000000000000
+      internalID: 2323426252997164753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox_charsheet_by_kinetic-kitsune_45
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f76dc44c81a28640800000000000000
+      internalID: 5080800953449146354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox_charsheet_by_kinetic-kitsune_46
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 283b8c3697106da30800000000000000
+      internalID: 4239577720092668802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox_charsheet_by_kinetic-kitsune_47
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fb90a1a7cc8e1370800000000000000
+      internalID: 8295222352701070327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox_charsheet_by_kinetic-kitsune_48
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be51556fe4d122a60800000000000000
+      internalID: 7647707342205949419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox_charsheet_by_kinetic-kitsune_49
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d0e94cc237d75d90800000000000000
+      internalID: -7108976873605308199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox_charsheet_by_kinetic-kitsune_50
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd096c4c3916ab1c0800000000000000
+      internalID: -4487166791431843620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: bc266d34900f7a546aafb6f00b09ba2a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      fox_charsheet_by_kinetic-kitsune_0: -4017809346326458292
+      fox_charsheet_by_kinetic-kitsune_1: -2549839200194244677
+      fox_charsheet_by_kinetic-kitsune_10: -1102217969591168522
+      fox_charsheet_by_kinetic-kitsune_11: -6527523367912722559
+      fox_charsheet_by_kinetic-kitsune_12: 1000724230941329906
+      fox_charsheet_by_kinetic-kitsune_13: -5957539565626664297
+      fox_charsheet_by_kinetic-kitsune_14: -7115654442317587935
+      fox_charsheet_by_kinetic-kitsune_15: -8958055539955277405
+      fox_charsheet_by_kinetic-kitsune_16: -1170481390426431879
+      fox_charsheet_by_kinetic-kitsune_17: -1934679246310390556
+      fox_charsheet_by_kinetic-kitsune_18: 3487549135318658199
+      fox_charsheet_by_kinetic-kitsune_19: 8826304183255934306
+      fox_charsheet_by_kinetic-kitsune_2: -5653357303851851536
+      fox_charsheet_by_kinetic-kitsune_20: -178584883369147514
+      fox_charsheet_by_kinetic-kitsune_21: -7952400251414645341
+      fox_charsheet_by_kinetic-kitsune_22: 2820549431142669696
+      fox_charsheet_by_kinetic-kitsune_23: 4467101482528955833
+      fox_charsheet_by_kinetic-kitsune_24: -5265255277806733338
+      fox_charsheet_by_kinetic-kitsune_25: 4140930768142552019
+      fox_charsheet_by_kinetic-kitsune_26: -7985637434646290321
+      fox_charsheet_by_kinetic-kitsune_27: 1055534549432156673
+      fox_charsheet_by_kinetic-kitsune_28: -8252363632264586136
+      fox_charsheet_by_kinetic-kitsune_29: 8118746640925578514
+      fox_charsheet_by_kinetic-kitsune_3: 4595781814148897812
+      fox_charsheet_by_kinetic-kitsune_30: -2236518510043782957
+      fox_charsheet_by_kinetic-kitsune_31: 860533028338128223
+      fox_charsheet_by_kinetic-kitsune_32: -7768328552450262171
+      fox_charsheet_by_kinetic-kitsune_33: -2978697178950410385
+      fox_charsheet_by_kinetic-kitsune_34: 4786052472677051875
+      fox_charsheet_by_kinetic-kitsune_35: -492774284070624616
+      fox_charsheet_by_kinetic-kitsune_36: 8918362837952352206
+      fox_charsheet_by_kinetic-kitsune_37: 6586513624326961667
+      fox_charsheet_by_kinetic-kitsune_38: 7831060700688039544
+      fox_charsheet_by_kinetic-kitsune_39: -3147979071289257614
+      fox_charsheet_by_kinetic-kitsune_4: -7312528423671408830
+      fox_charsheet_by_kinetic-kitsune_40: -3580948413289545601
+      fox_charsheet_by_kinetic-kitsune_41: -9177918358450755439
+      fox_charsheet_by_kinetic-kitsune_42: 1593898919044188655
+      fox_charsheet_by_kinetic-kitsune_43: -2915033298592907050
+      fox_charsheet_by_kinetic-kitsune_44: 2323426252997164753
+      fox_charsheet_by_kinetic-kitsune_45: 5080800953449146354
+      fox_charsheet_by_kinetic-kitsune_46: 4239577720092668802
+      fox_charsheet_by_kinetic-kitsune_47: 8295222352701070327
+      fox_charsheet_by_kinetic-kitsune_48: 7647707342205949419
+      fox_charsheet_by_kinetic-kitsune_49: -7108976873605308199
+      fox_charsheet_by_kinetic-kitsune_5: 149654250012870763
+      fox_charsheet_by_kinetic-kitsune_50: -4487166791431843620
+      fox_charsheet_by_kinetic-kitsune_6: 1310899359114418690
+      fox_charsheet_by_kinetic-kitsune_7: -4061716475365636213
+      fox_charsheet_by_kinetic-kitsune_8: -3856278422087779056
+      fox_charsheet_by_kinetic-kitsune_9: -8026740356159913784
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
